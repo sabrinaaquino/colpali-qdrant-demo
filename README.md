@@ -1,6 +1,6 @@
 # ColPali Qdrant Demo
 
-This repository contains a demo notebook showcasing how to use **ColPali** with **Qdrant** for efficient document retrieval. The notebook demonstrates how to use **binary quantization** and **multivector indexing** to enhance search performance, using a Colab environment with a T4 GPU.
+This repository features a hands-on notebook that dives into leveraging ColPali with Qdrant for efficient document retrieval. In it, you'll explore how techniques like binary quantization and multivector indexing can boost search performance, all within a Colab environment running on a T4 GPU.
 
 ## 📚 Notebook Overview
 
